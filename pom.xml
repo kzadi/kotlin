@@ -11,6 +11,7 @@
     <modules>
         <module>CHAP-01-INTRODUCTION</module>
         <module>CHAP-02-VARIABLES</module>
+        <module>CHAP-03-STRUCT-CONTROLE</module>
     </modules>
 
     <packaging>pom</packaging>
