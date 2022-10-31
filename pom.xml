@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>CHAP-01-INTRODUCTION</module>
+        <module>CHAP-02-VARIABLES</module>
     </modules>
 
     <packaging>pom</packaging>
